@@ -14,7 +14,7 @@ If you want to compile any of the C++ (.cpp) files the following command should 
 
     g++ -o dbl_max ../src/dbl_max.cpp
     
-Obviously replace the file with any of the other C++ files you wish to compile.  The -o flag sets the file name, otherwise it will be named a.out.
+Obviously replace the file with any of the other C++ files you wish to compile.  The -o flag sets the compiled file name, otherwise it will be named a.out.
 
 If you want to compile any of the Java (.java) files the following command should work:
 
