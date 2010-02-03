@@ -14,13 +14,13 @@ If you want to compile any of the C++ (.cpp) files the following command should 
 
     g++ -o dbl_max ../src/dbl_max.cpp
     
-Obviously replace the file with any of the others you wish to compile.  The -o flag sets the file name, otherwise it will be named a.out.
+Obviously replace the file with any of the other C++ files you wish to compile.  The -o flag sets the file name, otherwise it will be named a.out.
 
 If you want to compile any of the Java (.java) files the following command should work:
 
     javac ../src/FltMax.java -d ~/code/overflows/bin/
     
-The -d flag is where you wish the compiled code to be placed, otherwise it will default to the current directory.
+The -d flag is where you wish the compiled code to be placed, otherwise it will default to the current directory.  Again, replace the names with any of the other Java files you wish to compile.
     
 The C file can be compiled with:
 
