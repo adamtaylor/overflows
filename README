@@ -4,8 +4,6 @@
 
 There are various examples of different data-type overflows in C++ and Java.  Also a C example showing the various byte sizes of primitive data types.
 
-The source code is in src/ and the compiled code should be ready to run in bin/.
-
 -------------
 - Compiling -
 -------------
@@ -36,4 +34,4 @@ Running the code should be a simple case of:
 
 cd bin -> ./file
 
-The results are sent to printed to the terminal.
+The results are printed to the terminal.
